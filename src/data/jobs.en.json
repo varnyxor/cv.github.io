@@ -1,0 +1,74 @@
+[
+  {
+    "employer": {
+      "name": "Mobiserra",
+      "location": "Portugal",
+      "url": "https://mobiserra.pt/"
+    },
+    "position": "Packer",
+    "duration": "April 2025 - Present",
+    "descriptions": [
+      "Responsible for picking up products and boxing them, preparing them for shipment to clients. I perform general warehouse maintenance and forklift operation as part of my daily duties."
+    ]
+  },
+  {
+    "employer": {
+      "name": "Micronipol becomes Veolia",
+      "location": "Portugal",
+      "url": "https://micronipol.pt/"
+    },
+    "position": "Production Line Manager",
+    "duration": "October 2023 - March 2025",
+    "descriptions": [
+      "Responsible for feeding, operating, and monitoring the production line, ensuring product quality and compliance. I perform basic equipment maintenance and troubleshooting. I also operate forklifts as part of my daily duties."
+    ]
+  },
+  {
+    "employer": {
+      "name": "Comergy / O.T. Engineering",
+      "location": "France",
+      "url": "https://www.comergy.fr/"
+    },
+    "position": "Machine Operator",
+    "duration": "November 2022 - September 2023",
+    "descriptions": [
+      "Operated specialized industrial equipment in a construction environment. Worked in an international context that required communication in various languages, adapting to different work cultures."
+    ]
+  },
+  {
+    "employer": {
+      "name": "Sateba Satepor",
+      "location": "Portugal",
+      "url": "https://sateba.com/"
+    },
+    "position": "Factory Operator / Production Line Manager",
+    "duration": "April 2020 - October 2022",
+    "descriptions": [
+      "Performed specialized tasks in the production of concrete railway sleepers, including demolding, mold equipment preparation, and operation of specific production line machinery."
+    ]
+  },
+  {
+    "employer": {
+      "name": "Matcerâmica",
+      "location": "Portugal",
+      "url": "https://www.matceramica.com/"
+    },
+    "position": "Factory Operator",
+    "duration": "January 2018 - April 2020",
+    "descriptions": [
+      "Responsible for feeding, regulating, and maintaining glazing machines in good working order. Collected products from glazing lines and performed pottery loading and unloading processes."
+    ]
+  },
+  {
+    "employer": {
+      "name": "FNAC",
+      "location": "Portugal",
+      "url": "https://www.fnac.pt/"
+    },
+    "position": "Technical Products Salesperson",
+    "duration": "June 2016 - September 2017",
+    "descriptions": [
+      "Provided personalized service and technical advice, collaborated in store organization, product sales, stock replenishment, and signage application. Developed advanced communication skills and knowledge of technological products available in the market."
+    ]
+  }
+]

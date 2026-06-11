@@ -1,0 +1,34 @@
+[
+  {
+    "category": "Languages",
+    "items": ["Portuguese (Native)", "English (Fluent)"]
+  },
+  {
+    "category": "Programming Languages",
+    "items": ["Pawn", "TypeScript", "JavaScript", "Python", "HTML", "CSS/SCSS"]
+  },
+  {
+    "category": "Web Frameworks & Technologies",
+    "items": ["React", "Next.js", "Node.js", "Bun", "Sass/SCSS", "npm"]
+  },
+  {
+    "category": "Development Tools",
+    "items": ["Git", "GitHub", "Visual Studio Code", "CLI Development", "Package Management"]
+  },
+  {
+    "category": "Operating Systems",
+    "items": ["Windows", "macOS", "Linux", "Ubuntu Server"]
+  },
+  {
+    "category": "Databases",
+    "items": ["MySQL", "MariaDB", "SQLite"]
+  },
+  {
+    "category": "DevOps & Tools",
+    "items": ["Docker", "Command Line", "Server Monitoring", "Automation"]
+  },
+  {
+    "category": "Technical Skills",
+    "items": ["Forklift Operation", "Equipment Maintenance", "Quality Control", "Microsoft Office"]
+  }
+]

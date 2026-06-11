@@ -1,0 +1,86 @@
+:root {
+    --background-color: #ffffff;
+    --text-color: #212529;
+    --heading-color: #000000;
+    --link-color: #3173bb;
+    --separator-color: #000000;
+    --skill-bg-color: #222222;
+    --skill-text-color: #ffffff;
+    --desc-color: #444444;
+}
+
+[data-theme="dark"] {
+    --background-color: #1e1e1e;
+    --text-color: #e0e0e0;
+    --heading-color: #ffffff;
+    --link-color: #61afef;
+    --separator-color: #555555;
+    --skill-bg-color: #61afef;
+    --skill-text-color: #000000;
+    --desc-color: #cccccc;
+}
+
+/* Ensure the overlay renders correctly */
+.theme-reveal-overlay {
+  overflow: hidden;
+}
+
+.theme-reveal-overlay * {
+  transition: none !important;
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--heading-color);
+    transition: color 0.3s ease;
+}
+
+a {
+    color: var(--link-color);
+    transition: color 0.3s ease;
+}
+
+hr {
+    color: var(--separator-color);
+    background-color: var(--separator-color);
+    transition: all 0.3s ease;
+}
+
+/* Print styles remain the same */
+@media print {
+    body {
+        background-color: white !important;
+        color: black !important;
+    }
+
+    :root {
+        --background-color: white !important;
+        --text-color: black !important;
+        --heading-color: black !important;
+        --link-color: black !important;
+        --separator-color: black !important;
+        --skill-bg-color: #e0e0e0 !important;
+        --skill-text-color: black !important;
+        --desc-color: black !important;
+    }
+    
+    button,
+    a[href="javascript:window.print()"],
+    a[href*="/files/joao-frias-cv"],
+    .container > .row:first-of-type + .row + .row,
+    .container > .row:last-of-type,
+    .container > .row:last-of-type ~ hr {
+        display: none !important;
+    }
+    
+    [style*="skillItemStyle"] {
+        background-color: #e0e0e0 !important;
+        border: 1px solid #999 !important;
+        display: inline-block !important;
+    }
+}

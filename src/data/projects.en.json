@@ -1,0 +1,32 @@
+[
+  {
+    "title": "open.monitor",
+    "description": "Real-time monitoring system for SA-MP/open.mp servers. Provides live statistics and detailed analytics for server administrators. Built with TypeScript focusing on performance and user experience.",
+    "url": "https://github.com/itsneufox/open.monitor"
+  },
+  {
+    "title": "PAWN Painter",
+    "description": "A Visual Studio Code extension specifically designed for SA-MP and open.mp programmers, revolutionising colour handling in PAWN code. It offers real-time colour visualisation, format conversion, and intuitive tools for editing RGB, HEX, and embedded colours, significantly increasing productivity.",
+    "url": "https://github.com/itsneufox/PAWN-Painter-VSC"
+  },
+  {
+    "title": "tapi",
+    "description": "Advanced command-line tool for managing open.mp/SA-MP projects. Simplifies package management, compilation, and PAWN project structuring. Developed in TypeScript to provide a modern and efficient development experience.",
+    "url": "https://github.com/itsneufox/pawnctl"
+  },
+  {
+    "title": "GameText+",
+    "description": "An advanced library compatible with SA-MP and open.mp that expands and enhances the native GameText functionality. It offers improvements in text styling, animation options, and advanced formatting, allowing programmers to create more immersive interface elements.",
+    "url": "https://github.com/itsneufox/GameText-Plus"
+  },
+  {
+    "title": "open.mp - Wiki Translation",
+    "description": "Active contribution to the internationalisation of open.mp documentation by translating wiki content into Portuguese. This work makes essential development resources accessible to non-English-speaking programmers, helping to expand and diversify the global open.mp community.",
+    "url": "https://github.com/itsneufox/web"
+  },
+  {
+    "title": "Condomínio+",
+    "description": "Condominium management application aimed at automating finances, maintenance, and communication between administrators and residents. Currently under active development with an emphasis on collaborative workflows and modern integrations.",
+    "url": "https://github.com/itsneufox/Condominio-plus"
+  }
+]
